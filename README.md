@@ -3,7 +3,7 @@ Conceptos básicos de Azure
 
 
 * ### Azure:
-  Página en internet la cual provee servicios para satisfacer las necesidades empresariales, como almacenamiento de archivos, DB, IA y IoT.  
+  Página en internet la cual provee servicios de nube para satisfacer las necesidades empresariales, como almacenamiento de archivos, DB, IA y IoT.  
   
 * ### Informática en la nube
   Es el uso de la informatica por medio de internet.
